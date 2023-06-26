@@ -1,10 +1,10 @@
 {
     "landing": {
         "header": {
-            "mcpName": "Maritime Connectivity Platform"
+            "mcpName": "Digital Maritime Consultancy"
         },
         "title": {
-            "serviceProviderName": "MCC MCP Testbed",
+            "serviceProviderName": "DMC MCP",
             "serviceName": "Management Portal",
             "environmentName": "environment"
         },

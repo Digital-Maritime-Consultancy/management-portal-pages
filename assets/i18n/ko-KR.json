@@ -1,10 +1,10 @@
 {
     "landing": {
         "header": {
-            "mcpName": "Maritime Connectivity Platform"
+            "mcpName": "Digital Maritime Consultancy"
         },
         "title": {
-            "serviceProviderName": "MCC MCP 테스트베드",
+            "serviceProviderName": "DMC MCP",
             "serviceName": "관리 포털",
             "environmentName": "환경"
         },
