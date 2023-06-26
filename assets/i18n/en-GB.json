@@ -1,10 +1,6 @@
 {
     "landing": {
-        "header": {
-            "mcpName": "Digital Maritime Consultancy"
-        },
         "title": {
-            "serviceProviderName": "DMC MCP",
             "serviceName": "Management Portal",
             "environmentName": "environment"
         },
@@ -211,7 +207,6 @@
         }
     },
     "header": {
-        "portalName": "MCP Management Portal",
         "logout": "Log out"
     }
 }
